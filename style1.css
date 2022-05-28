@@ -1,0 +1,62 @@
+.contacto {
+  background-color: #2d46b8;
+}
+
+.contacto_div {
+  padding: 50px;
+  border: solid;
+  display: block;
+}
+
+.contacto_h1 {
+  color: white;
+}
+
+.contacto_p {
+  font: black;
+  family: sans-serif;
+  weight: 30;
+  variant: normal;
+}
+
+/* maps */
+.icon-facebook {
+  background-color: #75b0e7;
+}
+
+.icon-instagram {
+  background-color: #eb52b8;
+}
+
+.icon-youtube {
+  background-color: #e68581;
+}
+
+/* extend */
+.border--icon, .border--icon--dark {
+  border: solid 1px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.border--icon--dark {
+  background: #4b4b4b;
+}
+
+/* mixins */
+.btn--danger {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #333;
+  text-decoration: none;
+  background: red;
+}
+
+.btn--info {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #333;
+  text-decoration: none;
+  background: lightblue;
+}
+/*# sourceMappingURL=style1.css.map */
